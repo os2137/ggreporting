@@ -1,0 +1,12 @@
+Package: ggreporting
+Type: Package
+Title: My First R Package
+Version: 0.1.0
+Author: Onkar Singh <onkaronkar4@gmail.com>
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Provides functionality for my learning package. These fucctions are use only 
+    for Onkar Singh and no other people. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
